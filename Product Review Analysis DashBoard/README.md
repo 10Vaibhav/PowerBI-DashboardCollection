@@ -21,3 +21,6 @@ The Product Review Analysis Dashboard is a Power BI project that provides compre
 ## Contact
 For any questions or suggestions, please reach out.
 
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
