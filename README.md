@@ -11,7 +11,7 @@ This repository contains a variety of Power BI dashboards covering multiple indu
 - Detailed README files describing the dashboard's purpose, insights, and key metrics
 - Screenshots or previews to showcase the dashboard's visuals
 
-> ⚠️ **Note:** Due to data privacy and security considerations, datasets and Power BI files (.pbix) are not shared in this repository. Only visual outputs and documentation are provided.
+> ⚠️ **Note:**: In order to maintain the focus on data visualization and insights, this repository exclusively shares visual outputs (images and PDFs) and accompanying documentation. Original datasets and Power BI files (.pbix) are not included to streamline the exploration of dashboards and reports.
 
 ## 🗂️ Project List
 
